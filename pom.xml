@@ -13,7 +13,7 @@
     <description>Root project for communication skills and 30-day challenge</description>
 
     <modules>
-
+        <module>30-day-communication-roadmap</module>
     </modules>
 
     <properties>

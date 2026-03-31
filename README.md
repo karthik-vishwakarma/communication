@@ -1,2 +1,4 @@
 # communication
 This is a fantastic initiative. Improving communication is less about "talking more" and more about "connecting better." To make this 30-day challenge effective, we will treat it like a training camp—moving from the mechanics of speech to the art of influence.
+
+## [The 30-Day Communication Roadmap](30-day-communication-roadmap/README.md)
