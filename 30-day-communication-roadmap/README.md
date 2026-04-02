@@ -10,3 +10,4 @@
 
 * [Day 1: The Anatomy of Effective Communication](./day-01.md)
 * [Day 2: The Art of Active Listening](./day-02.md)
+* [Day 3: The Power of Brevity](./day-03.md)
